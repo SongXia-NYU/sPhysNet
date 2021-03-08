@@ -15,16 +15,16 @@ Dataset Construction to Explore Chemical Space with 3D Geometry and Deep Learnin
 ### 1. Project Organization
 
 ```
-|- README.md 
-|- tutorial.ipynb
-|- PhysDime-Seq
+|- README.md                                <- this file
+|- tutorial.ipynb                           <- A tutotial file for data preprocessing and sPhysNet training
+|- PhysDime-Seq                             <- Main code of PhysNet architecture, irrelevent files are ommitted.
     |- Networks
     |- utils
     |- train.py
     |- test.py
     |- config-sPhysNet-Frag20-eMol9-QM.txt
     |- subjob-testing.pbs
-|- dataProviders
+|- dataProviders                            <- Main code for data preprocessing and loading, irrelevent files are ommitted
     |- GaussUtils
     |- DataPrepareUtils.py
     |- DummyIMDataset.py
