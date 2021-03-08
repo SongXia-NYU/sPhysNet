@@ -31,5 +31,43 @@ Dataset Construction to Explore Chemical Space with 3D Geometry and Deep Learnin
     |- frag20_eMol9_split.pt
 ```
 
+### 2. Environment Setup
+
+Install the following packages:
+
+- Python 3.7
+
+`$ conda install python==3.7`
+
+- [Rdkit](https://www.rdkit.org/docs/Install.html)
+
+`$ conda install -c rdkit rdkit`
+
+- [PyTorch](https://pytorch.org/)
+
+Installation depends on system. Please install 1.6.0 or newer version
+
+- [PyTorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
+
+Please follow the instruction on the website.
+
+- [Warmup Scheduler](https://github.com/ildoonet/pytorch-gradual-warmup-lr)
+
+`$ pip install git+https://github.com/ildoonet/pytorch-gradual-warmup-lr.git`
+
+- [SymPy](http://www.cfm.brown.edu/people/dobrush/am33/SymPy/install.html)
+
+`$ pip install sympy`
+
+### 3. Tutorial
+
+Please follow this Jupyter Notebook: [tutorial.ipynb](https://github.com/SongXia-NYU/sPhysNet/blob/main/tutorial.ipynb)
+
+### 4. Reference
+
+- This is the official implementation of the paper [Dataset Construction to Explore Chemical Space with 3D Geometry and Deep Learning](https://pubs-acs-org.proxy.library.nyu.edu/doi/10.1021/acs.jcim.1c00007)
+- The PyTorch implementation is based on the TensorFlow version of [PhysNet](https://github.com/MMunibas/PhysNet).
+
+
 ---
 
