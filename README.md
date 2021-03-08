@@ -17,14 +17,14 @@
 ```
 |- README.md                                <- this file
 |- tutorial.ipynb                           <- A tutotial file for data preprocessing and sPhysNet training
-|- PhysDime-Seq                             <- Main code of PhysNet architecture, irrelevent files are ommitted.
+|- PhysDime-Seq                             <- Main code of PhysNet architecture, irrelevant files are omitted.
     |- Networks
     |- utils
     |- train.py
     |- test.py
     |- config-sPhysNet-Frag20-eMol9-QM.txt
     |- subjob-testing.pbs
-|- dataProviders                            <- Main code for data preprocessing and loading, irrelevent files are ommitted
+|- dataProviders                            <- Main code for data preprocessing and loading, irrelevant files are omitted
     |- GaussUtils
     |- DataPrepareUtils.py
     |- DummyIMDataset.py
