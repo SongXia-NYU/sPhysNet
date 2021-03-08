@@ -66,7 +66,7 @@ Please follow this Jupyter Notebook: [tutorial.ipynb](https://github.com/SongXia
 ### 4. References
 
 - This is the official implementation of the paper [Dataset Construction to Explore Chemical Space with 3D Geometry and Deep Learning](https://pubs-acs-org.proxy.library.nyu.edu/doi/10.1021/acs.jcim.1c00007)
-- The PyTorch implementation is based on the TensorFlow version of [PhysNet](https://github.com/MMunibas/PhysNet).
+- Thanks for the [TensorFlow version of PhysNet](https://github.com/MMunibas/PhysNet).
 
 
 ---
