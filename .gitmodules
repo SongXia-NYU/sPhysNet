@@ -1,6 +1,8 @@
 [submodule "PhysDime-Seq"]
 	path = PhysDime-Seq
 	url = https://github.com/SongXia-NYU/PhysDime-Seq.git
+	branch = main
 [submodule "dataProviders"]
 	path = dataProviders
 	url = https://github.com/SongXia-NYU/dataProviders.git
+	branch = master
