@@ -59,6 +59,10 @@ Please follow the instruction on the website.
 
 `$ pip install sympy`
 
+- [Deprecated](https://pypi.org/project/Deprecated/)
+
+`pip install Deprecated`
+
 ### 3. Tutorial
 
 Please follow this Jupyter Notebook: [tutorial.ipynb](https://github.com/SongXia-NYU/sPhysNet/blob/main/tutorial.ipynb)
