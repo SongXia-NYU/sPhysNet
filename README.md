@@ -61,7 +61,11 @@ Please follow the instruction on the website.
 
 - [Deprecated](https://pypi.org/project/Deprecated/)
 
-`pip install Deprecated`
+`$ pip install Deprecated`
+
+- [GPyTorch](https://gpytorch.ai/)
+
+`$ pip install gpytorch`
 
 ### 3. Tutorial
 
